@@ -1,0 +1,4 @@
+aries-cloudagent==0.6.0
+marshmallow==3.5.1
+flake8
+python-dateutil

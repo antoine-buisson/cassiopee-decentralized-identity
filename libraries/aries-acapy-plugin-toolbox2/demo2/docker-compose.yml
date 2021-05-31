@@ -1,0 +1,14 @@
+version: "3"
+services:
+  ngrok:
+    image: wernight/ngrok
+    command: ngrok http agent:3000 --log stdout
+  agent:
+    image: acapy-toolbox-ngrok
+    build:
+      context: ../
+      dockerfile: ./demo/Dockerfile.demo
+    environment:
+      NGROK_NAME: ngrok
+    ports:
+      - "3001:3001"
