@@ -91,7 +91,7 @@ We want the Company to generate a report after its intervention, following a tem
 
 #### 1.   The Factory creates the template (schema),
 
-Go to the "Schema Insuance" section, click on "Creat a new schema" and fill it with the relevent attributes (we chose date, company, description and price in our demo).
+Go to the "Schema Insuance" section, click on "Create a new schema" and fill it with the relevant attributes (we chose date, company, description and price in our demo).
 <details>
     <summary>Show me a screenshot!</summary>
     <img src="https://cdn.discordapp.com/attachments/776834563950379038/851130972530671626/Schema.png">
@@ -104,9 +104,9 @@ Go to the "Schema Insuance" section, click on "Creat a new schema" and fill it w
     <img src="https://cdn.discordapp.com/attachments/776834563950379038/851133314614296606/SchemaId1.png">
 </details>
 
-Once you get the schema ID, copy and paste it on the Credidential Issuance tab of the Company agent window, on the schema Retrieve search box.
+Once you get the schema ID, copy and paste it on the Credential Issuance tab of the Company agent window, on the schema Retrieve search box.
 
-You should have successfully retrieve the schema, you can now create a new credidential definition. It will take less than a minute for it to appear, so just be patient.
+You should have successfully retrieved the schema, you can now create a new Credential Definition. It will take less than a minute for it to appear, so just be patient.
 <details>
     <summary>Show me a screenshot!</summary>
     <img src="https://cdn.discordapp.com/attachments/776834563950379038/851133330094686228/CredidentialDefinition.png">
@@ -114,7 +114,7 @@ You should have successfully retrieve the schema, you can now create a new credi
 
 #### 3.   The Company fills the report and sends it to the Factory
 
-Now, issue a new credidential. You have to choose the Factoy as the Connection and select the credidential definition you have just created.
+Now, issue a new credential. You have to choose the Factory as the Connection and select the credential definition you have just created.
 <details>
     <summary>Show me a screenshot!</summary>
     <img src="https://cdn.discordapp.com/attachments/776834563950379038/851133344497270814/IssueCredidential.png">
@@ -122,7 +122,7 @@ Now, issue a new credidential. You have to choose the Factoy as the Connection a
 
 #### 4.   The Factory receives the report
 
-In the "My Credidentials" tab of the Factory agent window, it can be seen that the Factory has received successfully the report from the Company.
+In the "My Credentials" tab of the Factory agent window, it can be seen that the Factory has successfully received the report from the Company.
 
 <details>
     <summary>Show me a screenshot!</summary>
