@@ -140,10 +140,10 @@ To stop the ACA-Py agents, go to the second terminal and:
 *   Hit Ctrl-C to terminate the agents.
 *   To cleanup the docker sessions run:
 
-        ```
-        docker-compose -f docker-compose.factory-usecase.yml down
+```
+docker-compose -f docker-compose.factory-usecase.yml down
 
-        ```
+```
 
 Exit out of the second terminal session.
 
