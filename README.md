@@ -152,3 +152,6 @@ Exit out of the second terminal session.
 
 This demo was inspired by the Hyperledger Aries lab on [AriesToolbox](https://github.com/cloudcompass/ToIPLabs/blob/master/docs/LFS173x/AriesToolboxLab.md).
 
+The project was developped during the Cassiopée 2021 program runned by Télécom SudParis Institut Polytechnique de Paris.
+![](https://www.telecom-sudparis.eu/wp-content/uploads/2020/09/cropped-logo2.png)
+
