@@ -23,8 +23,9 @@ Since Aries Toolbox is an [Electron](https://www.electronjs.org/) app, you must 
 
 The need to run Aries Toolbox locally will add a new dependency to our list. To run this lab you need to have [nodejs](https://nodejs.org/) and [npm](https://www.npmjs.com/) (node package manager) installed. If you don’t have those installed on your system already, follow the instructions [here](https://www.npmjs.com/get-npm) to install them.
 
-
 ## Instructions
+
+This [Video of the demonstration](https://www.youtube.com/watch?v=wlFwevC4IMM) can help you with the instructions. But it has no sound, so make sure you follow the written instructions as well.
 
 Please open up two terminals running bash, and we’ll start in the first.
 
